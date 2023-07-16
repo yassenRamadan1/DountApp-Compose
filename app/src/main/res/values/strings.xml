@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Dount App (Compose)</string>
+    <string name="gonuts_with_donuts">Gonuts With Donuts</string>
+    <string name="get_started">Get Started</string>
+    <string name="on_boarding_text">Gonuts with Donuts is a Sri Lanka dedicated food outlets for specialize manufacturing of Donuts in Colombo, Sri Lanka.</string>
+    <string name="strawberry_wheel_body">These soft, cake-like Strawberry Frosted Donuts feature fresh strawberries and a delicious fresh strawberry glaze frosting. Pretty enough for company and the perfect treat to satisfy your sweet tooth.</string>
+    <string name="strawberry_wheel">Strawberry Wheel</string>
+    <string name="chocolate_glaze_body">These Baked Strawberry Donuts are filled with fresh strawberries…</string>
+    <string name="chocolate_glaze">Chocolate Glaze</string>
+    <string name="let_s_gonuts">Let’s Gonuts!</string>
+    <string name="order_your_favourite_donuts_from_here">Order your favourite donuts from here</string>
+    <string name="donuts">Donuts</string>
+    <string name="today_offers">Today Offers</string>
+    <string name="about_gonut">About Gonut</string>
+    <string name="quantity">Quantity</string>
+
 </resources>
